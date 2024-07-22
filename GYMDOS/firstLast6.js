@@ -2,6 +2,6 @@
 // El arreglo tendrá 1 o más elementos.
 //funcion 
 //retorno condicional o
-Function(nums){
+function FL(nums){
     return (nums[0]===6||nums[nums.length-1]===6);
 }
